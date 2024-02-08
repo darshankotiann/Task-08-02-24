@@ -1,0 +1,18 @@
+.nav-link,
+h1 {
+    color: #37447E !important;
+}
+
+.btn-primary {
+    background-color: #37447E !important;
+}
+
+.bg-background {
+    background-color: #E7ECFF;
+}
+
+@media (max-width:500px){
+    .content-res{
+        text-align: center !important;
+    }
+}
